@@ -21,4 +21,5 @@ android {
 dependencies {
 //    compile files('libs/lite-orm-1.9.1.jar')
     compile project(':library')
+    compile 'com.github.djun100:UtilAndroid:35e5fb7'
 }
