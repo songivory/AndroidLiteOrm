@@ -33,7 +33,3 @@ META-INF
 build/
 
 .externalNativeBuild/
-gradlew
-gradlew.bat
-
-gradle/
